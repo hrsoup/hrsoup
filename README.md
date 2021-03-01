@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hrsoup&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
-- ⚡ Senior, major in CS @BUPT.
+- ⚡ Senior, major in CS@BUPT.
 - 🌱 技术为骨，艺术为翼: My research interest lies in developing machine learning methods to understand and generate music.
 - 😄 修身、强国、扬天下: Researching on AI+music makes me so happy, both my ambition and interest can be satisfied.
 
