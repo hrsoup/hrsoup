@@ -3,8 +3,12 @@
 <!--
 **hrsoup/hrsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm now a senior student in the School of Computer Science @BUPT.
+🌱  技术为骨，艺术为翼 My research interest lies in developing machine learning methods to understand and generate music.
+😄  修身、强国、扬天下 Working on AI+music makes me so happy, both my ambition and interest can be satisfied.
 
+<!--
+**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
