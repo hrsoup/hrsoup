@@ -4,6 +4,7 @@
 
 - ⚡ Senior, major in CS@BUPT.
 - 🌱 My research interest lies in developing machine learning methods to understand and generate music.
+- 📫 You could find me on email: yifan.xie@bupt.edu.cn
 
 <!--
 **hrsoup/hrsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
