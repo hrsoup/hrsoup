@@ -4,7 +4,7 @@
 
 - 🌱 I am now a first-year Master student of Computer Science at University of Montreal.
 - 😄 I got my Bachelor's degree in School of Computer Science at Beijing University of Posts and Telecommunications.
-- 📫 You could find me on email: yifan.xie@umontreal.ca
+- 📫 You could find me on email: yifan.xie AT umontreal.ca
 
 <!--
 **hrsoup/hrsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
