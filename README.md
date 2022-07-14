@@ -2,6 +2,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hrsoup&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" />
 
+- 🌱 I am now a first-year Master student of Computer Science at University of Montreal.
+- 😄 I got my Bachelor's degree in School of Computer Science at Beijing University of Posts and Telecommunications.
+- 📫 You could find me on email: yifan.xie AT umontreal.ca
+
 <!--
 **hrsoup/hrsoup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
